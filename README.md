@@ -1,6 +1,6 @@
 # Olá, eu sou a Ana Carla! 👋
 
-Sou fascinada pela interseção entre **Matemática Aplicada, Computação e Infraestrutura Urbana**. Minha trajetória une a base técnica da construção civil com o rigor analítico da modelagem matemática para otimizar o ecossistema de transporte e trânsito.
+Sou interessada pela interseção entre **Matemática Aplicada, Computação e Infraestrutura Urbana**, além do uso de IA generativa para a criação de artifícios computacionais para solucionar problemas do trabalho. Minha trajetória une a base técnica da construção civil com o rigor analítico da modelagem matemática para otimizar o ecossistema de transporte e trânsito.
 
 ## 🎓 Formação Acadêmica
 * 🎓 **Graduanda em Engenharia Matemática** – Universidade Federal do Rio de Janeiro (UFRJ)

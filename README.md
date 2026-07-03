@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou a Ana Carla! 👋
 
-<!--
-**anacarla-acma/anacarla-acma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou fascinada pela interseção entre **Matemática Aplicada, Computação e Infraestrutura Urbana**. Minha trajetória une a base técnica da construção civil com o rigor analítico da modelagem matemática para otimizar o ecossistema de transporte e trânsito.
 
-Here are some ideas to get you started:
+## 🎓 Formação Acadêmica
+* 🎓 **Graduanda em Engenharia Matemática** – Universidade Federal do Rio de Janeiro (UFRJ)
+* 📜 **Licenciada em Matemática** – Universidade Federal do Rio de Janeiro (UFRJ)
+* 📐 **Técnica em Edificações** – Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚦 Atuação Profissional & Foco
+Atuo na área de **Engenharia de Tráfego**, onde utilizo inteligência artificial, ciência de dados e desenvolvimento de ferramentas para automatizar processos, modelar fluxos viários e otimizar sinalizações (como cálculos geométricos de capacidade e moderação de velocidade).
+
+## 🛠️ Habilidades Técnicas
+* **Linguagens & Ferramentas:** Python, AutoLISP, Álgebra Linear Computacional.
+* **Áreas de Interesse:** Processamento Digital de Imagens (OpenCV), Automação de Projetos (AutoCAD), Modelagem Estocástica e Algoritmos de Otimização aplicados ao tráfego.
+
+---
+*💡 "Transformando dados e equações em cidades mais eficientes e seguras."*
